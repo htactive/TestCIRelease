@@ -1,0 +1,12 @@
+**/dist/
+**/*.jsx
+**/packages/**
+**/*.suo
+**/obj/**
+**/bin/**
+**/*.user
+**/.idea
+**/node_modules/**
+**/.vs
+*.dg
+**/*.lock.json
