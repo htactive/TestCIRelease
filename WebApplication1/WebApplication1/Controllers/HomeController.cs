@@ -12,6 +12,7 @@ namespace WebApplication1.Controllers
     {
         public IActionResult Index()
         {
+			ViewBag.Abc = "123456789";
             return View();
         }
 
